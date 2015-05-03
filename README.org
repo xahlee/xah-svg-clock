@@ -1,0 +1,10 @@
+A JavaScript+SVG Clock.
+
+To use, in html page create a tag
+
+#+BEGIN_SRC html
+<div id="svgclock68390"></div>
+<script defer src="xah-svg-clock.js"></script>
+#+END_SRC
+
+Home page http://xahlee.info/js/svg_clock.html
